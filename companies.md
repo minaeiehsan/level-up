@@ -1,0 +1,24 @@
+Level up program Corporate Training Clients
+
+- Advanced Information and communication center of sharif university of technology
+- Amirkabir university of technology
+- Avakatan (Fashion and clotting e-commerce)
+- Behsazan Mellat (biggest middle east core-Banking provider)
+- Central Bank of Iran
+- Digikala (biggest middle east e-commerce)
+- Eghtesad Novin Bank
+- Informatics Services Corporation (ISC)
+- Inverse school (online learning platform)
+- Isiran institute
+- Laitec (LMS)
+- Maltina (B2C marketplace)
+- Mellat bank
+- Ministry of Economic Affairs and Finance
+- Ministry of Energy
+- Peeyade (location-based media application)
+- Raymand (Portal provider)
+- Rightel (Mobile phone network operator)
+- Ruisun (BPMS solutions)
+- Sharif university of technology
+- Tehran university
+- Wallex (Cryptocurrencies exchange)
